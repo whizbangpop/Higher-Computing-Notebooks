@@ -19,19 +19,19 @@ Below are links to each chapter, and each exercises Google Colab link.
 ### Exercise 2
 
 Subchapter 1:
-* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/ex2/2.1.ipynb)
+* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.1.ipynb)
 * [GitHub](https://github.com/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.1.ipynb)
 
 Subchapter 2:
-* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/ex2/2.2.ipynb)
+* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.2.ipynb)
 * [GitHub](https://github.com/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.2.ipynb)
 
 Subchapter 3:
-* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/ex2/2.3.ipynb)
+* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.3.ipynb)
 * [GitHub](https://github.com/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.3.ipynb)
 
 Subchapter 4:
-* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/ex2/2.4.ipynb)
+* [Google Colab](https://colab.research.google.com/github/whizbangpop/higher-computing-notebooks/blocb/main/Ex2/2.4.ipynb)
 * [GitHub](https://github.com/whizbangpop/higher-computing-notebooks/blob/main/Ex2/2.4.ipynb)
 
 ---
